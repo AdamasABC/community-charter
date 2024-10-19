@@ -9,6 +9,8 @@ The ABC Club at Adamas University aims to bridge the gap between academic knowle
 - **Mission**: To provide students with hands-on experience and industry insights while fostering a collaborative learning environment.
 - **Vision**: To be a leading student-led initiative that empowers individuals to excel in technology and business through practical projects and mentorship.
 
+<img width="649" alt="image-3" src="https://github.com/user-attachments/assets/0bc6e284-7e4a-420e-b4fb-cf7d40355198">
+
 Our primary goal is to give students real-world experience by integrating three core aspects:
 - **Business Perspective**
 - **IT Metrics**
@@ -27,15 +29,17 @@ Imagine this as a Venn diagram where these three domains overlap. At the center 
 ---
 
 ## Part 4: The Why
-We emphasize the "Why" behind our initiatives:
-- How do our projects apply in real-world business contexts?
-- Why are our technical choices crucial from a financial perspective?
-
-This approach ensures that students grasp the reasoning behind technical decisions, preparing them for real-world scenarios. 
-
 - **Students**: The core of our initiative.
 - **Teachers**: Bridge academia and real-world practice.
 - **Industry Experts**: Bring vital real-world expertise to make student projects relevant.
+
+<img width="901" alt="Screenshot 2024-10-02 at 10 43 48 PM" src="https://github.com/user-attachments/assets/ce0e9ab6-cada-46b0-85c3-131f8b158257">
+
+We emphasize the "Why" behind our initiatives:
+- **How** do our projects apply in real-world business contexts?
+- **Why** are our technical choices crucial from a financial perspective?
+
+This approach ensures that students grasp the reasoning behind technical decisions, preparing them for real-world scenarios. 
 
 ---
 
